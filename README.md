@@ -53,6 +53,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Syed Imthiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Imthiaz&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Imthiaz&layout=compact&theme=default)
+
+---
+
+## 📈 Profile Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Syed-Imthiaz&label=Visitors&style=flat&color=0e75b6)
+
+---
+
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-Imthiaz)  
