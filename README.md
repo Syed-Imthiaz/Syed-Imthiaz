@@ -6,21 +6,21 @@
 
 ---
 
-### 🔧 Skills
-
-- Python | Pandas | NumPy | Scikit-learn  
-- Machine Learning | Supervised & Unsupervised Learning  
-- Flask (for ML Model Deployment)  
-- Git & GitHub  
+### 🚀 Tech Stack & Tools  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🌱 Currently Learning:
-
-- Deep Learning Basics (CNN, ANN)  
-- TensorFlow & Keras  
-- Model Deployment with Flask & FastAPI  
-- Hackathon-level ML problem solving
+### 🌱 Currently Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -52,19 +52,12 @@
 - Beginner-friendly Deep Learning collaborations
 
 ---
-## 🔧 Example badge:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
----
-
-
-### 📫 How to reach me:
-
-- **Email:** syedimthiaz2006@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
-🔗 [GitHub](https://github.com/Syed-Imthiaz)  
-🔗 [ORCID](https://orcid.org/0009-0001-7636-456X)
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-Imthiaz)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7636-456X)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedimthiaz2006@gmail.com)
 
 ---
 
