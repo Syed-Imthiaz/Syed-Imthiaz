@@ -56,9 +56,9 @@
 ### 📫 How to reach me:
 
 - **Email:** syedimthiaz2006@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
-- [GitHub](https://github.com/Syed-Imthiaz)  
-- ORCID: [0009-0001-7636-456X](https://orcid.org/0009-0001-7636-456X)
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [GitHub](https://github.com/Syed-Imthiaz)  
+🔗 [ORCID](https://orcid.org/0009-0001-7636-456X)
 
 ---
 
